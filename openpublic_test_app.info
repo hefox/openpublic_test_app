@@ -1,0 +1,5 @@
+name = OpenPublic Test app
+core = 7.x
+package = Testing
+dependencies[] = block
+features[features_api][] = api:2
