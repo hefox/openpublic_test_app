@@ -1,1 +1,1 @@
-whatever
+jquery.click(whatever);
